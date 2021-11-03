@@ -4,3 +4,5 @@
 -📖 Bolsista do programa +PraTI em Desenvolvimento Java <br>
 -🎯 Foco atual é Java para trabalhar com Back-end! <br>
 -🔧 Trago muita anti-fragilidade e criatividade. <br>
+
+<a href="https://www.linkedin.com/in/guilhermethomas/v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
