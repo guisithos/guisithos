@@ -3,7 +3,7 @@
 
 
 <div> 
-  <a href="none" target="_blank"><img src="https://i.imgur.com/ttrhAzp.png" target="_blank"></a>
+  <a href="https://github.com/guisithos" target="_blank"><img src="https://i.imgur.com/ttrhAzp.png" target="_blank"></a>
   
 </div>
 
