@@ -1,3 +1,8 @@
+
+<div>
+<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/bLK4nLD.gif" target="_blank"></a>
+</div>
+
 ## Opa! Seja bem vindo.
 
 Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme também.
@@ -13,9 +18,7 @@ Sou apaixonado por tecnologia 💙
 Aqui é 🔪💀
 
 
-<div>
-<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/bLK4nLD.gif" target="_blank"></a>
-</div>
+
 
 
 
