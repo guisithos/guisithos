@@ -13,8 +13,9 @@ Sou apaixonado por tecnologia 💙
 Aqui é 🔪💀
 
 
-
-<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/IfKdTwm.gif" target="_blank"></a>
+<div>
+<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/bLK4nLD.gif" target="_blank"></a>
+</div>
 
 
 
