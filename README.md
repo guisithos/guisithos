@@ -14,6 +14,8 @@ Aqui é 🔪💀
 
 
 
+<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/IfKdTwm.gif" target="_blank"></a>
+
 
 
 <div>
