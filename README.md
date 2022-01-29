@@ -6,7 +6,6 @@
 ## Opa! Seja bem-vindo (a).
 Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme também.
 
-Sou apaixonado por tecnologia 💙
 
 💻 Trabalhei muito tempo em contato direto com hardware e seus usuários, pluga um cabo aqui, solda um componente ali, socorre o cliente acolá. Moldei minhas softskill assim e essas experiências me trouxeram muito autoconhecimento pra encontrar meu lugar na área de desenvolvimento e infra.
 
