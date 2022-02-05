@@ -9,7 +9,7 @@ Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme t
 
 💻 Trabalhei muito tempo em contato direto com hardware e seus usuários, pluga um cabo aqui, solda um componente ali, socorre o cliente acolá. Moldei minhas softskill assim e essas experiências me trouxeram muito autoconhecimento pra encontrar meu lugar na área de desenvolvimento e infra.
 
-📌 Tenho o foco bem ajustado para 2022: Entrar na área. Até o momento já tenho um certificado 200hrs de Desenvolvimento Java pelo programa +PraTI, consegui um certificado Oracle Cloud Infraestruture Foundations e uso a teoria e prática da graduação para me auxiliar na caminhada. Compartilho um pouco do que estou fazendo no meu https://guisithos.medium.com
+📌 Meu foco em 2022 é entrar para a área. Até o momento já tenho um certificado 200hrs de Desenvolvimento Java pelo programa +PraTI, consegui um certificado Oracle Cloud Infraestruture Foundations e uso a teoria e prática da graduação para me auxiliar na caminhada. Compartilho um pouco do que estou fazendo no meu https://guisithos.medium.com
 
 📖 Atualmente estudando muito sobre SGBDs, Linux e Cloud. Meu objetivo é ter uma base sólida de Lógica, uma linguagem específica (Java), comandos GIT e iniciando com Kubernetes e Docker.
 
