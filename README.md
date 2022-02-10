@@ -11,8 +11,7 @@ Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme t
 
 📌 Meu foco em 2022 é entrar para a área. Até o momento já tenho um certificado 200hrs de Desenvolvimento Java pelo programa +PraTI, consegui um certificado Oracle Cloud Infraestruture Foundations e uso a teoria e prática da graduação para me auxiliar na caminhada. Compartilho um pouco do que estou fazendo no meu https://guisithos.medium.com
 
-📖 Atualmente estudando muito sobre SGBDs, Linux e Cloud. Meu objetivo é ter uma base sólida de Lógica, uma linguagem específica (Java), comandos GIT e iniciando com Kubernetes e Docker.
-
+📖 Atualmente estudando muito sobre SGBDs, Linux e Cloud. Meu objetivo é ter uma base sólida de Lógica, uma linguagem específica (Java), comandos GIT e noções dos frameworks mais utilizados. 
 Aqui é 🔪💀
 
 
