@@ -6,13 +6,15 @@
 ## Opa! Seja bem-vindo (a).
 Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme também.
 
+💻 Tenho mais de 10 anos de experiência com hardware e atendimento. De uma simples formatação até a instalação de redes e micro soldagem de um circuito impresso, de uma venda simples como um mouse sem fio até vendas internacionais de centenas de dólares. Aprendi muito com erros e acertos, e o autoconhecimento gerado me levou a encontrar um novo propósito na área de desenvolvimento.
 
-💻 Trabalhei muito tempo em contato direto com hardware e seus usuários, pluga um cabo aqui, solda um componente ali, socorre o cliente acolá. Moldei minhas softskill assim e essas experiências me trouxeram muito autoconhecimento pra encontrar meu lugar na área de desenvolvimento e infra.
+📌 Sem firula, 2022 é meu ano. Se em 2021 eu conquistei minha bolsa integral em Análise e Desenvolvimento de Sistemas, finalizei o curso de Desenvolvedor Java da +praTI com 200 hrs e um certificado Oracle Cloud Infraestructure, esse ano não perde por esperar. 
 
-📌 Meu foco em 2022 é entrar para a área. Até o momento já tenho um certificado 200hrs de Desenvolvimento Java pelo programa +PraTI, consegui um certificado Oracle Cloud Infraestruture Foundations e uso a teoria e prática da graduação para me auxiliar na caminhada. Compartilho um pouco do que estou fazendo no meu https://guisithos.medium.com
+📖 Atualmente estou estudando sobre SQL, SGBDs e Cloud. Aqui cada degrau é respeitado, estou montando uma base sólida de Lógica, praticando Java e aprendendo sobre seus frameworks. 
+Compartilho um pouco do que estou realizando no meu Medium (https://guisithos.medium.com)
 
-📖 Atualmente estudando muito sobre SGBDs, Linux e Cloud. Meu objetivo é ter uma base sólida de Lógica, uma linguagem específica (Java), comandos GIT e noções dos frameworks mais utilizados. 
-Aqui é 🔪💀
+
+📮 gui.thomas@outlook.com
 
 
 
