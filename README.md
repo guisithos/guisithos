@@ -11,7 +11,7 @@ Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme t
 📌 Sem firula, 2022 é meu ano. Se em 2021 eu conquistei minha bolsa integral em Análise e Desenvolvimento de Sistemas, finalizei o curso de Desenvolvedor Java da +praTI com 200 hrs e um certificado Oracle Cloud Infraestructure, esse ano não perde por esperar. 
 
 📖 Atualmente estou estudando sobre SQL, SGBDs e Cloud. Aqui cada degrau é respeitado, estou montando uma base sólida de Lógica, praticando Java e aprendendo sobre seus frameworks. 
-Compartilho um pouco do que estou realizando no meu Medium (https://guisithos.medium.com)
+Compartilho um pouco do que estou realizando no meu Medium (https://guisithos.medium.com).
 
 
 📮 gui.thomas@outlook.com
