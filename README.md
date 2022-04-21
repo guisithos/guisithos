@@ -1,6 +1,6 @@
 
 <div>
-<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/bLK4nLD.gif" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/pGIoKVb.gif" target="_blank"></a>
 </div>
 
 ## Opa! Seja bem-vindo (a).
