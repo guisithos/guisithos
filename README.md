@@ -4,18 +4,13 @@
 </div>
 
 ## Opa! Seja bem-vindo (a).
-Pra quem me conhece, sou o Guilherme, e se você não me conhece, é Guilherme também.
 
-💻 Tenho mais de 10 anos de experiência com hardware e atendimento. De uma simples formatação até a instalação de redes e micro soldagem de um circuito impresso, de uma venda simples como um mouse sem fio até vendas internacionais de centenas de dólares. Aprendi muito com erros e acertos, e o autoconhecimento gerado me levou a encontrar um novo propósito na área de desenvolvimento.
+🕔 Mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e estou mirando trabalhar com 🎯 back-end e infra. Tenho estudado muito sobre Linguagens OO como Java e C++, e ferramentas que contribuem com o dia de um dev, particularmente Distros Linux, serviços Cloud e SGBDs (MySQL e Postgre).
+Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
-📌 Sem firula, 2022 é meu ano. Se em 2021 eu conquistei minha bolsa integral em Análise e Desenvolvimento de Sistemas, finalizei o curso de Desenvolvedor Java da +praTI com 200 hrs e um certificado Oracle Cloud Infraestructure, esse ano não perde por esperar. 
+💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
 
-📖 Atualmente estou estudando sobre SQL, SGBDs e Cloud. Aqui cada degrau é respeitado, estou montando uma base sólida de Lógica, praticando Java e aprendendo sobre seus frameworks. 
-Compartilho alguns projetinhos da graduação no meu Medium: (https://dev.to/guithomas)
-
-
-📮 gui.thomas@outlook.com
-
+ 📝 Escrevo um pouco no https://dev.to/guithomas
 
 
 
@@ -24,7 +19,7 @@ Compartilho alguns projetinhos da graduação no meu Medium: (https://dev.to/gui
 <div>
 <a href="https://www.linkedin.com/in/guilhermethomas/v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/guisithos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.medium.com/@guisithos" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="hhttps://dev.to/guithomas" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 
 </div>
 
