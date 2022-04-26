@@ -27,6 +27,13 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
  
+</div>
+
+Specs
+ryzen 5 1600 @ 3.8GHz
+amd rx 580 8 GB
+kingston 24GB RAM
+kingston NVME 500GB
  
   
 
