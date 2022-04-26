@@ -32,6 +32,7 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 Specs
 
 ryzen 5 1600 @ 3.8GHz | amd rx 580 8 GB | kingston 24GB RAM | kingston NVME 500GB
- 
+
+Raspberry Pi 3 @ 1.4
   
 
