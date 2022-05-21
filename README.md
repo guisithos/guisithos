@@ -10,7 +10,16 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
 
- 📝 Escrevo um pouco no https://dev.to/guithomas
+<!-- BLOG-POST-LIST:START -->
+## 📝 Últimos posts
+
+ 
+ 
+
+
+<!-- BLOG-POST-LIST:END -->
+
+
 
 
 
