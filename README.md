@@ -11,12 +11,10 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
 
 <!-- BLOG-POST-LIST:START -->
-## 📝 Últimos posts
-
- 
- 
-
-
+- [Resumo sobre UML](https://dev.to/guithomas/resumo-sobre-uml-3bi0)
+- [Arquitetura Baseada em Modelos](https://dev.to/guithomas/arquitetura-baseada-em-modelos-28pm)
+- [GIT Server usando um Raspberry PI &amp; Pendrive](https://dev.to/guithomas/git-server-usando-um-raspberry-pi-pendrive-48a9)
+- [Interligação de Redes por VPN](https://dev.to/guithomas/interligacao-de-redes-por-vpn-4am8)
 <!-- BLOG-POST-LIST:END -->
 
 
