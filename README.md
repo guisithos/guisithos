@@ -8,8 +8,9 @@
 🕔 Mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e hoje estou trabalhando com Desenvolvimento em Java de Software desktop. Sigo estudado muito sobre Linguagens OO como Java e C++, e ferramentas que contribuem com o dia de um dev, particularmente Distros Linux, serviços Cloud e SGBDs (MySQL e Postgre).
 Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
-💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
+## 💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
 
+##  📝 Últimos blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Resumo sobre UML](https://dev.to/guithomas/resumo-sobre-uml-3bi0)
 - [Arquitetura Baseada em Modelos](https://dev.to/guithomas/arquitetura-baseada-em-modelos-28pm)
