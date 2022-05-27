@@ -12,6 +12,7 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 ##  📝 Últimos blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visão Computacional](https://dev.to/guithomas/visao-computacional-129m)
 - [Resumo sobre UML](https://dev.to/guithomas/resumo-sobre-uml-3bi0)
 - [Arquitetura Baseada em Modelos](https://dev.to/guithomas/arquitetura-baseada-em-modelos-28pm)
 - [GIT Server usando um Raspberry PI &amp; Pendrive](https://dev.to/guithomas/git-server-usando-um-raspberry-pi-pendrive-48a9)
