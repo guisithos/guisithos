@@ -12,11 +12,11 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 ##  📝 Últimos blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conceito de app para Gerenciamento de equipamentos](https://dev.to/guithomas/conceito-de-app-para-gerenciamento-de-equipamentos-31lg)
 - [Básico sobre Visão Computacional](https://dev.to/guithomas/visao-computacional-129m)
 - [Resumo sobre UML](https://dev.to/guithomas/resumo-sobre-uml-3bi0)
 - [Arquitetura Baseada em Modelos](https://dev.to/guithomas/arquitetura-baseada-em-modelos-28pm)
 - [GIT Server usando um Raspberry PI &amp; Pendrive](https://dev.to/guithomas/git-server-usando-um-raspberry-pi-pendrive-48a9)
-- [Interligação de Redes por VPN](https://dev.to/guithomas/interligacao-de-redes-por-vpn-4am8)
 <!-- BLOG-POST-LIST:END -->
 
 
