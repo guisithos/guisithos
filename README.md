@@ -1,8 +1,4 @@
 
-<div>
-<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://i.imgur.com/pGIoKVb.gif" target="_blank"></a>
-</div>
-
 ## Opa! Seja bem-vindo (a).
 
 🕔 Mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e hoje estou trabalhando com Desenvolvimento em Java de Software desktop. Sigo estudado muito sobre Linguagens OO como Java e C++, e ferramentas que contribuem com o dia de um dev, particularmente Distros Linux, serviços Cloud e SGBDs (MySQL e Postgre).
@@ -20,11 +16,6 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 <!-- BLOG-POST-LIST:END -->
 
 
-
-
-
-
-
 <div>
 <a href="https://www.linkedin.com/in/guilhermethomas/v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/guisithos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,8 +24,13 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 </div>
 
 <div>
- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"
+ 
+
  
 </div>
 
