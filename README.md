@@ -1,7 +1,7 @@
 
 ## Opa! Seja bem-vindo (a).
 
-🕔 Mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e hoje estou trabalhando com Desenvolvimento em Java de Software desktop. Sigo estudado muito sobre Linguagens OO como Java e C++, e ferramentas que contribuem com o dia de um dev, particularmente Distros Linux, serviços Cloud e SGBDs (MySQL e Postgre).
+🕔 Tenho mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e hoje estou trabalhando com Desenvolvimento em Java de Software desktop. Continuamente estudando sobre as linguagens que uso no meu trabalho e hobby como Java e Rust além de ferramentas que contribuem com o dia de um dev, particularmente Shell Script, serviços Cloud e SGBDs (MySQL e Postgre).
 Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 ## 💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
