@@ -8,11 +8,11 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 ##  📝 Últimos blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Riscos Tecnológicos com uso de Machine Learning](https://dev.to/guithomas/riscos-tecnologicos-com-uso-de-machine-learning-161m)
 - [Contextualização sobre Orientação a Objetos](https://dev.to/guithomas/contextualizacao-sobre-orientacao-a-objetos-gfn)
 - [Conceito de app para Gerenciamento de equipamentos](https://dev.to/guithomas/conceito-de-app-para-gerenciamento-de-equipamentos-31lg)
 - [Básico sobre Visão Computacional](https://dev.to/guithomas/visao-computacional-129m)
 - [Resumo sobre UML](https://dev.to/guithomas/resumo-sobre-uml-3bi0)
-- [Arquitetura Baseada em Modelos](https://dev.to/guithomas/arquitetura-baseada-em-modelos-28pm)
 <!-- BLOG-POST-LIST:END -->
 
 
