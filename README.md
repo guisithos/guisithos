@@ -8,11 +8,11 @@ Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
 
 ##  📝 Últimos blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust e segurança de memória](https://dev.to/guithomas/rust-e-seguranca-de-memoria-7k)
+- [Rust e o &quot;empréstimo&quot; de propriedade](https://dev.to/guithomas/rust-e-emprestimo-de-propriedade-cb2)
+- [Rust e a segurança de memória](https://dev.to/guithomas/rust-e-seguranca-de-memoria-7k)
 - [Riscos Tecnológicos com uso de Machine Learning](https://dev.to/guithomas/riscos-tecnologicos-com-uso-de-machine-learning-161m)
 - [Contextualização sobre Orientação a Objetos](https://dev.to/guithomas/contextualizacao-sobre-orientacao-a-objetos-gfn)
 - [Conceito de app para Gerenciamento de equipamentos](https://dev.to/guithomas/conceito-de-app-para-gerenciamento-de-equipamentos-31lg)
-- [Básico sobre Visão Computacional](https://dev.to/guithomas/visao-computacional-129m)
 <!-- BLOG-POST-LIST:END -->
 
 
