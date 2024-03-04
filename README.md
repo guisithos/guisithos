@@ -1,20 +1,14 @@
 
-## Opa! Seja bem-vindo (a).
+## ..
 
-🕔 Tenho mais de 10 anos de experiência com hardware e suporte. Em 2021 encontrei um propósito maior na área de desenvolvimento e hoje estou trabalhando com Desenvolvimento em Java de Software desktop. Continuamente estudando sobre as linguagens que uso no meu trabalho e hobby como Java e Rust além de ferramentas que contribuem com o dia de um dev, particularmente Shell Script, serviços Cloud e SGBDs (MySQL e Postgre).
-Meu ingles é avançado e em breve vou buscar o certificado TOEIC.
+🕔 Atualmente, sou pós-graduando em Arquitetura de Software, com graduação em Análise e Desenvolvimento de Sistemas. Trabalho profissionalmente com software e linguagens de programação desde 2021 e acumulo mais de 10 anos de experiência em hardware e suporte.
 
-## 💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
+Atuo na Unimed Noroeste/RS com o sistema hospitalar EMR Tasy, possuindo amplo domínio em PL/SQL e SQL, além do uso de PHP, GIT e sistema Help Desk. 
+No âmbito acadêmico, dedico-me ao estudo de linguagens como Rust e Go.
 
-##  📝 Últimos blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Rust e o &quot;empréstimo&quot; de propriedade](https://dev.to/guithomas/rust-e-emprestimo-de-propriedade-cb2)
-- [Rust e a segurança de memória](https://dev.to/guithomas/rust-e-seguranca-de-memoria-7k)
-- [Riscos Tecnológicos com uso de Machine Learning](https://dev.to/guithomas/riscos-tecnologicos-com-uso-de-machine-learning-161m)
-- [Contextualização sobre Orientação a Objetos](https://dev.to/guithomas/contextualizacao-sobre-orientacao-a-objetos-gfn)
-- [Conceito de app para Gerenciamento de equipamentos](https://dev.to/guithomas/conceito-de-app-para-gerenciamento-de-equipamentos-31lg)
-<!-- BLOG-POST-LIST:END -->
+💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
 
+📝 Mantenho repositórios de estudo em https://codeberg.org/guithomas
 
 <div>
 <a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
