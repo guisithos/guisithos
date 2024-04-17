@@ -27,9 +27,6 @@ No âmbito acadêmico, dedico-me ao estudo de linguagens como Rust e Go.
 </div>
 
 Specs
-
-ryzen 5 1600 @ 3.8GHz | amd rx 580 8 GB | kingston 24GB RAM | kingston NVME 500GB
-
 Raspberry Pi 3 @ 1.4
   
 
