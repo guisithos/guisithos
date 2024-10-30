@@ -1,16 +1,13 @@
 
 ## ..
+:flashlight: With ten years of experience in hardware and support, I transitioned into software development in 2019. Through formal education and bootcamps, I developed coding skills in Java, with daily use of GIT and SQL. Currently, I work with PL/SQL, Go, and Java in a collaborative, cross-functional team environment, focusing on developing scalable solutions. I am dedicated to continuously learning robust, market-leading technologies with a strong focus on adaptability and security.
 
-🕔 Atualmente, sou pós-graduando em Arquitetura de Software, com graduação em Análise e Desenvolvimento de Sistemas. Trabalho profissionalmente com software e linguagens de programação desde 2021 e acumulo mais de 10 anos de experiência em hardware e suporte.
+💡 I believe in sharing knowledge and the concept of anti-fragility to evolve as a professional and as a human being.
 
-Atuo na Unimed Noroeste/RS com o sistema hospitalar EMR Tasy, possuindo amplo domínio em PL/SQL e SQL, além do uso de PHP, GIT e sistema Help Desk. 
-No âmbito acadêmico, dedico-me ao estudo de linguagens como Rust e Go.
-
-💡 Acredito no compartilhamento de conhecimento e na anti-fragilidade pra evoluir como profissional e ser humano.
+📝 I maintain study repositories here, feel free to check them.
 
 <div>
-<a href="https://www.linkedin.com/in/guilhermethomas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://dev.to/guithomas" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilhermethomas/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
 
