@@ -1,5 +1,5 @@
 
-## ..
+## 
 :flashlight: With ten years of experience in hardware and support, I transitioned into software development in 2019. Through formal education and bootcamps, I developed coding skills in Java, with daily use of GIT and SQL. Currently, I work with PL/SQL, Go, and PHP in a collaborative, cross-functional team environment, focusing on developing scalable solutions. I am dedicated to continuously learning robust, market-leading technologies with a strong focus on adaptability and security.
 
 💡 I believe in sharing knowledge and the concept of anti-fragility to evolve as a professional and as a human being.
