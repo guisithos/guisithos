@@ -1,6 +1,6 @@
 
 ## 
-:flashlight: With ten years of experience in hardware and support, I transitioned into software development in 2019. Through formal education and bootcamps, I developed coding skills in Java, with daily use of GIT and SQL. Currently, I work with PL/SQL, Go, and PHP in a collaborative, cross-functional team environment, focusing on developing scalable solutions. I am dedicated to continuously learning robust, market-leading technologies with a strong focus on adaptability and security.
+:flashlight:  Over five years of experience in development, graduated in Systems Analysis and Development with a postgraduate degree in Software Architecture. Focused on back-end development using languages such as Java and Go/Golang, with strong expertise in PL/SQL and SQL, knowledge in Docker configuration, git, DDD, Clean Architecture, and microservices.
 
 💡 I believe in sharing knowledge and the concept of anti-fragility to evolve as a professional and as a human being.
 
